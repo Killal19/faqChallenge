@@ -1,0 +1,9 @@
+nav{
+    border: 1rem solid !important;
+}
+
+*{
+    padding: 0;
+    margin: auto;
+    box-sizing: border-box;
+}
